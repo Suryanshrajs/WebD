@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white; /* Optional: change text color for better readability */
+}
+.logosize{
+    width:30px;
+    height: 30px;
+}
+.header{
+    text-align: center;
+  
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+span{
+    margin:10px;
+    font-weight: bold;
+    
+}
+.makebold{
+    font-weight: bold;
+    font-size: 2em; /* This is the default size for h2 in most browsers */
+    line-height: 1.2; /* Adjust line-height if needed */
+    margin: 0.67em 0;
+}
+.div2{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
