@@ -1,0 +1,100 @@
+header{
+    display : flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom:20px;
+
+}
+a{
+    text-decoration: none;
+    margin-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gray;
+}
+.logo{
+    height:20px;
+    width: auto;
+}
+.headerdiv2{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+hr{
+    border: none;
+    height: 2px;
+    background-color: whitesmoke;
+
+    
+}
+.landinglogo{
+    width: 60%;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    padding:60px;
+}
+.div4 h1{
+    font-size: 50px;
+    color:rgb(54, 53, 53);
+    font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300px;
+}
+.div4{
+
+    display: flex;
+    justify-content: center;
+}
+.div5{
+    display: flex;
+    justify-content: center;
+}
+.div5 p{
+    font-size: 20px;
+    color:rgb(54, 53, 53);
+    font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300px;
+}
+.div6{
+    display: flex;
+    justify-content: center;
+}
+.div6 a button{
+    background-color: rgb(24, 109, 184);
+    width: 200px; /* Set the width */
+    height: 50px; /* Set the height */
+    font-size: 18px; /* Set the font size */
+    color: antiquewhite;
+    font-weight: 400px;
+    font-size :x-large;
+    font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5%;
+    border: none;
+   
+}
+a{
+    cursor: pointer;
+}
+.div7{
+    padding-top: 30px;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 200px;
+    justify-content: space-between;
+}
+.div9 img{
+    height: 600px;
+    }
+.div8 h2,h4, h5{
+    font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(65, 64, 64);  
+    
+    }
+    .div10{
+        display: flex;
+        justify-content: center;
+    }
